@@ -1,5 +1,13 @@
 # Security Operation
 
+## Mục lục
+
+- [Module 1: Understand Data Security](#1)
+- [Module 2: Understand System Hardening](#2)
+- [Module 3: Understand Best Practice Security Policies](#3)
+- [Module 4: Understand Security Awareness Training](#4)
+
+<a name="1"></a>
 ## Module 1: Understand Data Security
 
 ### Data Handling
@@ -73,6 +81,7 @@ Asymmetric Encryption
 Hashing
 - message digest
 
+<a name="2"></a>
 # Module 2: Understand System Hardening
 
 ### Configuration Management Overview
@@ -104,7 +113,7 @@ Khi bảo vệ tài sản, đường cơ sở có thể đặc biệt hữu ích
 - patches: Bản vá lỗi là bản cập nhật, nâng cấp hoặc sửa đổi đối với một hệ thống hoặc thành phần. Những bản vá này có thể cần thiết để giải quyết lỗ hổng hoặc để cải thiện chức năng.
 
 
-
+<a name="3"></a>
 # Module 3: Understand Best Practice Security Policies
 
 ## Common Security Policies
@@ -159,7 +168,7 @@ Approval:
 Rollback:
     Tùy thuộc vào bản chất của sự thay đổi, có thể cần hoàn thành nhiều hoạt động khác nhau. Chúng thường bao gồm: Lập kế hoạch thay đổi, Thử nghiệm thay đổi, Xác minh quy trình khôi phục, Thực hiện thay đổi, Đánh giá thay đổi để vận hành đúng và hiệu quả và Ghi lại thay đổi trong môi trường sản xuất. Thẩm quyền khôi phục thường sẽ được xác định trong kế hoạch khôi phục, có thể ngay lập tức hoặc được lên lịch như một thay đổi tiếp theo nếu việc giám sát thay đổi cho thấy hiệu suất không phù hợp.
 
-
+<a name="4"></a>
 ## Module 4: Understand Security Awareness Training
 
 ### Purpose

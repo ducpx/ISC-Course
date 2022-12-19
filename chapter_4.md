@@ -1,5 +1,12 @@
 # Chapter 4: Network Security
 
+## Mục lục
+
+- [Module 1: Understand Computer Networking](#1)
+- [Module 2: Understand Network (Cyber) Threats and Attacks](#2)
+- [Module 3: Understand Network Security Infrastructure](#3)
+
+<a name="1"></a>
 ## Module 1: Understand Computer Networking
 
 ### What is Networking
@@ -105,6 +112,7 @@ TCP/IP (cũng như hầu hết các giao thức) cũng có thể bị tấn côn
 
 Một số giao thức mạng truyền thông tin ở dạng văn bản rõ ràng, nghĩa là nó không được mã hóa và không nên được sử dụng. Thông tin văn bản rõ ràng có thể bị mạng đánh hơi. Chiến thuật này sử dụng phần mềm để kiểm tra các gói dữ liệu khi chúng di chuyển trên mạng và trích xuất văn bản như tên người dùng và mật khẩu. Đánh hơi mạng cũng có thể tiết lộ nội dung của tài liệu và các tệp khác nếu chúng được gửi qua các giao thức không an toàn. Bảng bên dưới hiển thị một số giao thức không an toàn cùng với các giao thức thay thế an toàn được khuyến nghị.
 
+<a name="2"></a>
 # Module 2: Understand Network (Cyber) Threats and Attacks
 
 ## Types of Threats
@@ -171,6 +179,7 @@ IDS types are commonly classified as host-based and network-based. A host-based 
 - Firewalls
 - Intrusion Prevention System (IPS)
 
+<a name="3"></a>
 ## Module 3: Understand Network Security Infrastructure
 
 ### On-Premises Data Centers

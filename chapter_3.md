@@ -1,5 +1,12 @@
 # Chapter 3: Access Control Concepts
 
+## Mục lục
+
+- [Module 1: Understand Access Control Concepts](#1)
+- [Module 2: Understand Physical Access Controls](#2)
+- [Module 3: Understand Logical Access Controls](#3)
+
+<a name="1"></a>
 # Module 1: Understand Access Control Concepts
 
 ### What is Security Control?
@@ -91,6 +98,7 @@ Thay đổi vị trí—Khi một nhân viên đã được thăng chức, các 
 Tách việc—Khi nhân viên rời công ty, tùy thuộc vào chính sách và thủ tục của công ty, tài khoản của họ phải bị vô hiệu hóa sau ngày và giờ chấm dứt. Bạn nên vô hiệu hóa các tài khoản trong một khoảng thời gian trước khi xóa chúng để duy trì tính toàn vẹn của bất kỳ tệp hoặc dấu vết kiểm tra nào mà người dùng có thể sở hữu. Vì tài khoản sẽ không còn được sử dụng nữa nên nó sẽ bị xóa khỏi mọi vai trò bảo mật hoặc hồ sơ truy cập bổ sung. Điều này bảo vệ công ty, vì vậy nhân viên bị cách ly không thể truy cập vào dữ liệu của công ty sau khi chia tay và nó cũng bảo vệ họ vì tài khoản của họ không thể bị người khác sử dụng để truy cập dữ liệu.
 LƯU Ý: Khi tuyển dụng hoặc thay đổi vai trò, cách tốt nhất là không sao chép hồ sơ người dùng cho người dùng mới, vì điều này thúc đẩy “sự leo thang quyền hoặc đặc quyền”. Ví dụ: nếu một nhân viên được cấp thêm quyền truy cập để hoàn thành một nhiệm vụ và quyền truy cập đó không bị xóa khi hoàn thành nhiệm vụ, sau đó hồ sơ của người dùng đó được sao chép để tạo ID người dùng mới, thì ID mới sẽ được tạo với nhiều quyền hơn so với hiện tại. cần thiết để hoàn thành chức năng của họ. Bạn nên thiết lập vai trò tiêu chuẩn và người dùng mới được tạo dựa trên các tiêu chuẩn đó chứ không phải người dùng thực.
 
+<a name="2"></a>
 # Module 2: Understand Physical Access Controls
 
 Kiểm soát truy cập vật lý là các mục bạn có thể chạm vào. Chúng bao gồm các cơ chế vật lý được triển khai để ngăn chặn, giám sát hoặc phát hiện sự tiếp xúc trực tiếp với các hệ thống hoặc khu vực trong cơ sở. Ví dụ về các biện pháp kiểm soát truy cập vật lý bao gồm nhân viên bảo vệ, hàng rào, thiết bị phát hiện chuyển động, cửa/cổng khóa, cửa sổ bịt kín, đèn chiếu sáng, bảo vệ dây cáp, khóa máy tính xách tay, phù hiệu, thẻ quẹt, chó bảo vệ, máy ảnh, bẫy/cửa xoay và báo động.
@@ -166,6 +174,7 @@ Việc sử dụng các biện pháp kiểm soát truy cập vật lý và giám
     
     Cuối cùng, một loại hệ thống báo động phổ biến khác có dạng nút hoảng loạn. Sau khi được kích hoạt, nút báo động sẽ báo cho cảnh sát hoặc nhân viên an ninh thích hợp.
 
+<a name="3"></a>
 # Module 3: Understand Logical Access Controls
 
 What are Logical Access Controls?

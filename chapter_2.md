@@ -1,5 +1,14 @@
 # Chapter 2: Incident Response, Business Continuity and Disaster Recovery Concepts
 
+Mục tiêu của doanh nghiệp là hoạt động kinh doanh, kiếm tiền. Security không trực tiếp đóng góp vào doanh thu nhưng lại đóng góp phần quan trọng trong bảo vệ tài sản công ty. Mục đích giúp cty duy trì hoạt động liên tục
+
+## Mục lục
+
+- [Module 1: Understand Incident Response](#1)
+- [Module 2: Understand Business Continuity (BC)](#2)
+- [Module 3: Understand Disaster Recovery (DR)](#3)
+
+<a name="1"></a>
 # Module 1: Understand Incident Response
 
 ### Incident Terminology
@@ -23,8 +32,6 @@
     crisis management, incident management: incident management được làm như thế nào, làm sao để tạo ra incident management, các bước chuẩn bị, thực hiện, đánh giá như thế nào, cần chuẩn bị gì, có những gì để làm việc này được tốt
     các event trong hệ thống thường đều vô hại, nhưng sẽ có những event xảy ra bất thường gây bất lợi cho hệ thống, được xem là những incident. Cần phải có incident response plan. Làm thế nào lập plan, dựa vào kinh nghiệm, lý thuyết, những bài toán thực tế đã có, phân tích rủi ro, dựa vào policy của tổ chứ
     Khi lập kế hoạch, chính sách hoạt động của cty, trong đó sẽ có phần chính sách tiếp tục kinh doanh khi có sự cố, trong này lại phải định nghĩa các bước để xác định những bất lợi trong kinh doanh, đánh giá rủi ro, quản lý các rủi ro, các thủ tục khi xảy ra một sự cố, đó gọi là incident response plan
-
-*tối về đọc podcast*
 
 ### Components of the Incident Response Plan
 Khi soạn thảo các chính sách xử lý sự cố cần tham chiếu đến kế hoạch xử lý sự cố, từ kế hoạch cần làm gì, đạt mục tiệu mà chúng ta sẽ định nghĩa các chính sách để yêu cầu nhân viên tuân thủ.
@@ -80,7 +87,8 @@ Determine whether any confidential information was compromised during the incide
 Implement any necessary recovery procedures to restore security and recover from incident-related damage.
 Supervise the implementation of any additional security measures necessary to improve security and prevent recurrence of the incident.
 
-# Module 2: Understand Business Continuity (BC)
+<a name="2"></a>
+## Module 2: Understand Business Continuity (BC)
 
 ### The Importance of Business Continuity
 
@@ -105,7 +113,8 @@ Cho bài toán cần lên kế hoạch để khôi phục lại công việc kin
 
 Business Impact Analysis (BIA)
 
-# Module 3: Understand Disaster Recovery (DR)
+<a name="3"></a>
+## Module 3: Understand Disaster Recovery (DR)
 
 Khôi phục hệ thống thông tin và truyền thông trong quá trình có sự cố xảy ra gây gián đoạn hệ thống và trong quá trình khôi phục cho đến khi hệ thống hoạt động bình thường.
 Việc khôi phục hệ thống thông tin có thể độc lập với khôi phục kinh doanh, tuy nhiên hệ thống thông tin là quan trọng cho hệ thống kinh doanh
